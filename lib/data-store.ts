@@ -1,4 +1,4 @@
-type StrategyRecord = {
+export type StrategyRecord = {
   positioning: string
   pillars: string[]
   objection_map: { objection: string; reframe: string }[]
