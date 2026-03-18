@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import './globals.css'
+import '../globals.css'
 
 type ConversionForm = {
   name: string

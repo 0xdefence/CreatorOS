@@ -34,7 +34,7 @@ export function runWriter(input: WriterInput): WriterOutput {
     },
     {
       format: 'thread',
-      text: `Thread: 1) Pain 2) Insight 3) ${input.offer} fix 4) CTA`.
+      text: `Thread: 1) Pain 2) Insight 3) ${input.offer} fix 4) CTA`
     },
     {
       format: 'script',
